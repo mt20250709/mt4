@@ -10,4 +10,4 @@
 
 在这些优质平台上，影片按类别、演员等信息进行分类，帮助您轻松找到自己喜爱的内容，确保流畅的观看体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/mt20250709/mt4 ）</span>
